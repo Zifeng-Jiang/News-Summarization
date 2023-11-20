@@ -1,4 +1,4 @@
-# News Summarization Using Fine-Tuned LLMs - T5, PEGASUS and BART (LLMs, NLP, MLOps)
+# 📰News Summarization Using Fine-Tuned LLMs - T5, PEGASUS and BART (LLMs, NLP, MLOps)
 
 - Developed an AI-powered web application for real-time abstractive news summarization.
 
