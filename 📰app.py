@@ -5,7 +5,7 @@ import requests
 API_TOKEN = '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'
 
 st.title('📰News Summarization!')
-st.subheader("Got no time to read those lengthy news articals?🧐")
+st.subheader("Got no time to read those lengthy news articles?🧐")
 st.write("Copy and paste your news article here and I will tell you what happened.😎")
 model_name = st.selectbox("Pick a summarization model📊", ["BART", "PEGASUS", "T5"])
 txt = st.text_area("📃News to summarize:", height=200)
